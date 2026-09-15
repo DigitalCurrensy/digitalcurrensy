@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="3D contribution graph generates after the first GitHub Action run">
+  <rect width="1280" height="420" fill="#0B0B0B"/>
+  <rect x="0" y="0" width="1280" height="1" fill="#C9A227" opacity="0.25"/>
+  <rect x="0" y="419" width="1280" height="1" fill="#C9A227" opacity="0.25"/>
+  <g fill="none" stroke="#C9A227" stroke-opacity="0.18" stroke-width="1">
+    <path d="M140,300 L640,140 L1140,300 L640,380 Z"/>
+    <path d="M240,268 L640,172 L1040,268"/>
+    <path d="M340,236 L640,204 L940,236"/>
+    <path d="M290,316 L640,348 L990,316"/>
+    <path d="M390,220 L390,300"/>
+    <path d="M490,188 L490,332"/>
+    <path d="M640,140 L640,380"/>
+    <path d="M790,188 L790,332"/>
+    <path d="M890,220 L890,300"/>
+  </g>
+  <g fill="#C9A227">
+    <g opacity="0.55">
+      <polygon points="560,250 600,234 600,190 560,206"/>
+      <polygon points="560,206 600,190 640,206 600,222"/>
+      <polygon points="600,234 640,218 640,206 600,222"/>
+    </g>
+    <g opacity="0.8">
+      <polygon points="640,270 680,254 680,168 640,184"/>
+      <polygon points="640,184 680,168 720,184 680,200"/>
+      <polygon points="680,254 720,238 720,184 680,200"/>
+    </g>
+    <g opacity="0.4">
+      <polygon points="480,278 520,262 520,230 480,246"/>
+      <polygon points="480,246 520,230 560,246 520,262"/>
+      <polygon points="520,262 560,246 560,278 520,294"/>
+    </g>
+    <g opacity="0.7">
+      <polygon points="720,262 760,246 760,200 720,216"/>
+      <polygon points="720,216 760,200 800,216 760,232"/>
+      <polygon points="760,246 800,230 800,216 760,232"/>
+    </g>
+  </g>
+  <text x="640" y="78" text-anchor="middle" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" letter-spacing="6" fill="#C9A227">CONTRIBUTION ARCHITECTURE</text>
+  <text x="640" y="104" text-anchor="middle" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12" letter-spacing="2" fill="#8A8680">3D isometric graph · generated nightly by GitHub Actions</text>
+  <text x="640" y="400" text-anchor="middle" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="11" letter-spacing="2" fill="#5C5954">Actions → GitHub-Profile-3D-Contrib → Run workflow</text>
+</svg>
