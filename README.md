@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Digital Currensy Inc. — we build the platforms independent music runs on." width="100%">
+  <img src="assets/banner.png" alt="Digital Currensy Inc. — platforms for music, sports, and the creator economy." width="100%">
 </p>
 
 # Digital Currensy Inc.
 
-**Digital Currensy Inc. (DCI)** is a technology company in Los Angeles. We create and build the apps, dapps, platforms, and infrastructure that independent music runs on.
+**Digital Currensy Inc. (DCI)** is a technology company in Los Angeles. We create and build apps, dapps, platforms, and infrastructure across **music, sports, entertainment, and the creator economy** — including music tech and sports tech.
 
-**[digitalcurrensy.com](https://www.digitalcurrensy.com)** is the product. **[Label IQ](https://app.labeliq.ai)** is the AI studio. **This GitHub** is where that engineering lives.
+**[digitalcurrensy.com](https://www.digitalcurrensy.com)** is the music platform. **[Label IQ](https://app.labeliq.ai)** is the AI studio. Sports and entertainment products ship from this GitHub too.
+
+Music · Music tech · Sports · Sports tech · Entertainment · Creator economy
+
+In 2018 DCI published a whitepaper on music distribution on the blockchain — our first paper in that category.
 
 ## The music platform
 
@@ -16,7 +20,15 @@ No upfront fee. Artists keep **80%**. DCI keeps 20% to run the infrastructure.
 
 ## The AI studio
 
-[app.labeliq.ai](https://app.labeliq.ai) is Label IQ — AI songs, videos, assets, and fan campaigns. The creative layer next to a release. DCI handles the infrastructure; Label IQ builds the creative.
+[app.labeliq.ai](https://app.labeliq.ai) is Label IQ — AI songs, videos, assets, and fan campaigns. The creative layer next to a release.
+
+## Sports & entertainment
+
+Same company. Different verticals.
+
+- **[First Bucket Studios](https://github.com/DigitalCurrensy/first-bucket-studios)** — NBA / WNBA pack rip in the browser.
+- **[The U Prep](https://www.theubasketballprepacademy.com)** — basketball academy, Glendale & Torrance.
+- **[Rich Off Pints](https://richoffpints.com)** — Icewear Vezzo / ROP 4 artist platform.
 
 ## Scale
 
@@ -28,7 +40,7 @@ No upfront fee. Artists keep **80%**. DCI keeps 20% to run the infrastructure.
 
 ## Built here
 
-Engineering for the platform, the studio, and custom work we ship for artists and institutions. Custom builds are commissions and experiments — not the product.
+Engineering for music, sports, entertainment, and creators. Custom builds are commissions and experiments — not the music platform.
 
 **Core**
 
@@ -46,12 +58,12 @@ Engineering for the platform, the studio, and custom work we ship for artists an
 
 | | |
 | --- | --- |
-| [first-bucket-studios](https://github.com/DigitalCurrensy/first-bucket-studios) | Browser pack rip — NBA / WNBA holographic foil. |
+| [first-bucket-studios](https://github.com/DigitalCurrensy/first-bucket-studios) | Sports entertainment — NBA / WNBA holographic foil. |
+| [ICEWEAR-VEZZO-ROP4-WEBSITE](https://github.com/DigitalCurrensy/ICEWEAR-VEZZO-ROP4-WEBSITE) | Music / entertainment — richoffpints.com. |
+| The U Prep | Sports — basketball academy. [theubasketballprepacademy.com](https://www.theubasketballprepacademy.com). |
 | [compton-one](https://github.com/DigitalCurrensy/compton-one) | Civic navigator for Compton. EN / ES / TL / ZH. |
 | [healthie](https://github.com/DigitalCurrensy/healthie) | Honest Aisle pack-scoring prototype. |
-| [ICEWEAR-VEZZO-ROP4-WEBSITE](https://github.com/DigitalCurrensy/ICEWEAR-VEZZO-ROP4-WEBSITE) | Icewear Vezzo / Rich Off Pints — richoffpints.com. |
 | [adrian-swish-site](https://github.com/DigitalCurrensy/adrian-swish-site) | Founder site — adrianswish.xyz. |
-| The U Prep | Basketball academy — [theubasketballprepacademy.com](https://www.theubasketballprepacademy.com). |
 
 ## Stack
 
@@ -59,10 +71,9 @@ TypeScript · JavaScript · React · Next.js · Python · Node.js · Vite · Web
 
 ## Papers
 
-Historical text only — not a live settlement or minting rail.
-
-- [DCI Whitepaper (2025)](https://github.com/DigitalCurrensy/DCI-WHITEPAPER)
-- [Label IQ Whitepaper (2025)](https://github.com/DigitalCurrensy/LABEL-IQ-WHITEPAPER)
+- **2018** — [Music distribution on the blockchain](https://www.chipin.com/digital-currensy-blockchain-content-monetization-music-promotion-platform/). DCI’s first whitepaper on on-chain music distribution. Historical.
+- [DCI Whitepaper (2025)](https://github.com/DigitalCurrensy/DCI-WHITEPAPER) — company thesis. Not a live settlement rail.
+- [Label IQ Whitepaper (2025)](https://github.com/DigitalCurrensy/LABEL-IQ-WHITEPAPER) — spec text. Not a live minting rail.
 
 ## Contact
 
