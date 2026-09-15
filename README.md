@@ -124,15 +124,12 @@ Not a crypto exchange. Not a token sale. Not a record deal.
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%">
 </p>
 
-<!-- Snake animation: generated to the output branch by .github/workflows/snake.yml.
-     After the first Actions run, replace this comment with the picture block below.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DigitalCurrensy/digitalcurrensy/output/github-contribution-grid-snake-dark.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/DigitalCurrensy/digitalcurrensy/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
--->
 
 ## Papers
 
