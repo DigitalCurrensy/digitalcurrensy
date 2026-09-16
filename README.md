@@ -6,6 +6,8 @@
 
 **Digital Currensy Inc. (DCI)** is a technology company in Los Angeles. We create and build apps, dapps, platforms, and infrastructure across **music, sports, entertainment, and the creator economy** — including music tech and sports tech.
 
+**Founder-engineer:** [Adrian Swish](https://github.com/adrianswish) · [adrianswish.xyz](https://adrianswish.xyz)
+
 **[digitalcurrensy.com](https://www.digitalcurrensy.com)** is the music platform. **[Label IQ](https://app.labeliq.ai)** is the AI studio. Sports and entertainment products ship from this GitHub too.
 
 Music · Music tech · Sports · Sports tech · Entertainment · Creator economy
@@ -58,6 +60,7 @@ Engineering for music, sports, entertainment, and creators. Custom builds are co
 
 | | |
 | --- | --- |
+| [open-hood](https://github.com/DigitalCurrensy/open-hood) | Auto desk — VIN in, three sentences out. |
 | [first-bucket-studios](https://github.com/DigitalCurrensy/first-bucket-studios) | Sports entertainment — NBA / WNBA holographic foil. |
 | [ICEWEAR-VEZZO-ROP4-WEBSITE](https://github.com/DigitalCurrensy/ICEWEAR-VEZZO-ROP4-WEBSITE) | Music / entertainment — richoffpints.com. |
 | The U Prep | Sports — basketball academy. [theubasketballprepacademy.com](https://www.theubasketballprepacademy.com). |
@@ -81,7 +84,7 @@ TypeScript · JavaScript · React · Next.js · Python · Node.js · Vite · Web
 | --- | --- |
 | Company | [digitalcurrensy.com](https://www.digitalcurrensy.com) |
 | Email | [info@digitalcurrensy.com](mailto:info@digitalcurrensy.com) |
-| Founder | [adrianswish.xyz](https://adrianswish.xyz) · [swish@digitalcurrensy.com](mailto:swish@digitalcurrensy.com) |
+| Founder | [adrianswish](https://github.com/adrianswish) · [adrianswish.xyz](https://adrianswish.xyz) · [swish@digitalcurrensy.com](mailto:swish@digitalcurrensy.com) |
 | Booking | [adrianswish.book.kiwilaunch.com](https://adrianswish.book.kiwilaunch.com/) |
 | X | [@digitalcurrensy](https://x.com/digitalcurrensy) |
 | Instagram | [@digitalcurrensy](https://instagram.com/digitalcurrensy) |
