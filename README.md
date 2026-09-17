@@ -84,7 +84,7 @@ TypeScript · JavaScript · React · Next.js · Python · Node.js · Vite · Web
 | --- | --- |
 | Company | [digitalcurrensy.com](https://www.digitalcurrensy.com) |
 | Email | [info@digitalcurrensy.com](mailto:info@digitalcurrensy.com) |
-| Founder | [adrianswish](https://github.com/adrianswish) · [adrianswish.xyz](https://adrianswish.xyz) · [swish@digitalcurrensy.com](mailto:swish@digitalcurrensy.com) |
+| Founder | [adrianswish](https://github.com/adrianswish) · [adrianswish.xyz](https://adrianswish.xyz) ·|
 | Booking | [adrianswish.book.kiwilaunch.com](https://adrianswish.book.kiwilaunch.com/) |
 | X | [@digitalcurrensy](https://x.com/digitalcurrensy) |
 | Instagram | [@digitalcurrensy](https://instagram.com/digitalcurrensy) |
