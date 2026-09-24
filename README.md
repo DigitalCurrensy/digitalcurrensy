@@ -34,7 +34,7 @@ Same company. Different verticals.
 
 ## Scale
 
-| **100M+** | **800+** | **$600K+** | **15K+** |
+| **100M+** | **800+** | **15K+** |
 |:---:|:---:|:---:|:---:|
 | Streams | Artists | Revenue | Assets |
 
