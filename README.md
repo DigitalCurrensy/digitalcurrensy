@@ -92,3 +92,7 @@ TypeScript · JavaScript · React · Next.js · Python · Node.js · Vite · Web
 17 public repositories · Los Angeles · 2018–2026
 
 © 2026 Digital Currensy Inc.
+
+## Site gates
+
+Private until published. [desks](https://github.com/DigitalCurrensy/desks) is the index: one trend test and eight site gates. Apache-2.0, which is not an exclusive sale of those files. Not the music platform. Not a gauged basin.
