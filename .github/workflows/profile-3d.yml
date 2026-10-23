@@ -27,7 +27,7 @@ jobs:
           mkdir -p /tmp/profile-3d-contrib
           cp -a profile-3d-contrib/. /tmp/profile-3d-contrib/
           git fetch origin output
-          git checkout -B output origin/output
+          git checkout -f -B output origin/output
           mkdir -p profile-3d-contrib
           cp -a /tmp/profile-3d-contrib/. profile-3d-contrib/
           git config user.name github-actions
