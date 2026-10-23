@@ -21,11 +21,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+      - name: Publish graph on the output branch
         run: |
+          set -euo pipefail
+          mkdir -p /tmp/profile-3d-contrib
+          cp -a profile-3d-contrib/. /tmp/profile-3d-contrib/
+          git fetch origin output
+          git checkout -B output origin/output
+          mkdir -p profile-3d-contrib
+          cp -a /tmp/profile-3d-contrib/. profile-3d-contrib/
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "chore: refresh 3D contribution graph"; then
-            git push
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "Graph already current."
+            exit 0
           fi
+          git commit -m "chore: refresh 3D contribution graph"
+          git push origin output
