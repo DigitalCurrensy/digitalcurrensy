@@ -8,6 +8,22 @@ Los Angeles. Software for music, sports, entertainment, electric vehicles, and l
 
 [digitalcurrensy.com](https://www.digitalcurrensy.com) · [Label IQ](https://app.labeliq.ai) · [Adrian Swish](https://adrianswish.xyz)
 
+## Latest letter — Value & Compute, Vol. 13
+
+### The Hands Are Mine Now
+
+For people building in music, sports, entertainment, and AI. Talent creates the value. Compute and systems return it.
+
+<p align="center">
+  <a href="https://www.adrianswish.xyz/newsletter/vol-13">
+    <img src="https://www.adrianswish.xyz/newsletter/vol-13/og.jpg" alt="Value & Compute, Vol. 13 — The Hands Are Mine Now" width="100%">
+  </a>
+</p>
+
+[Read on the site](https://www.adrianswish.xyz/newsletter/vol-13) · [Substack](https://valuecompute.substack.com/p/value-and-compute-the-hands-are-mine) · [Medium](https://medium.com/@labeliqai/value-compute-the-hands-are-mine-now-7ac21dbca218)
+
+Adrian Swish
+
 ## Public work
 
 | | |
